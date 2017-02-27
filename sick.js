@@ -1,9 +1,5 @@
 $(document).ready(function(){
-  $('SK').slick({
-        slidesToShow: 3,
-        slidesToScroll: 1,
-        autoplay: true,
-        autoplaySpeed: 2000,
-     });
-  });
-			
+      $('KS').slick({
+        setting-name: setting-value
+      });
+    });		
